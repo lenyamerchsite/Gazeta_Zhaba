@@ -1,0 +1,55 @@
+.h17{
+    text-transform: uppercase;
+    font-style: italic;
+}
+.header{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+h2{
+    font-style: italic;
+}
+.main{
+    background-color: #D6D3CA;
+    width: 1200px;
+}
+body{
+    padding: 50px 0px
+
+}
+.tr1{
+    vertical-align: top;
+}
+img{
+    width: 430px;
+    height: 530px;
+}
+.td2{
+    padding-right: 20px;
+}
+.p2{
+    font-size: 26px;
+    margin-bottom: 35px;
+}
+table{
+    vertical-align: top;
+}
+.footer222{
+    border-bottom: 4px solid black;
+    border-top: 4px solid black;
+    font-style: italic;
+    font-size: 35px;
+}
+ul{
+    list-style-type: none;
+    margin-top: 15px;
+}
+.lilili{
+ display: inline-block;
+ vertical-align: top;
+ width: 370px;
+ margin-right: 20px;
+}
+.lilili:last-of-type{
+    margin-right: 0px;
+}
